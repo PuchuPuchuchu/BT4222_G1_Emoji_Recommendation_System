@@ -1,5 +1,5 @@
 # BT4222_G1_Emoji_Recommendation_System
-linked to google drive (with datasets used): https://drive.google.com/drive/folders/1-NNp2flaBTl217nvQK2TrtqnbXHFbhr9?usp=share_link
+linked to google drive (include datasets used and the saved best model `svm.pkl`): https://drive.google.com/drive/folders/1-NNp2flaBTl217nvQK2TrtqnbXHFbhr9?usp=share_link
 
 ## Order of code flow:
 
